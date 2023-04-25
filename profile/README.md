@@ -17,7 +17,7 @@ Check out our [official website](https://www.juneo.com/) for more information ab
 We'd love to hear from you! If you have any questions or suggestions, please feel free to contact us:
 
 - 📧 Email: comming soon
-- 💼 LinkedIn: [JUNEO AG](https://www.linkedin.com/company/juneo-ag/about/)
+- 💼 LinkedIn: [JUNEO](https://www.linkedin.com/company/juneo-ag/about/)
 - 🐦 Twitter: comming soon
 
 ## 🌟 Star us on GitHub
