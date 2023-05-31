@@ -19,7 +19,6 @@ We'd love to hear from you! If you have any questions or suggestions, please fee
 - 📧 Email : coming soon
 - 💼 LinkedIn : [JUNEO](https://www.linkedin.com/company/juneo-ag/about/)
 - 🐦 Twitter : [JUNEO_official](https://twitter.com/JUNEO_official)
-- 🌐 Site Web : [JUNEO](https://www.juneo.ch/)
 - 💬 Telegram : [JUNEO_Official](https://t.me/JuneoOfficial)
 - 📖 Medium : [JUNEO](https://medium.com/@juneo)
 - 💬 Discord : [JUNEO Network](https://discord.gg/juneonetwork)
