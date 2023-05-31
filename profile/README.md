@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/Juneo-io/.github/blob/main/profile/logo.png)
 
-JUNEO Network is a ...
+Discover JUNEO, the platform that redefines blockchain innovation through unlimited blockchain creation , facilitate a new age of decentralization , efficiency and frictionless user experience.
 
 ## 📚 Documentation
 
@@ -16,9 +16,13 @@ Check out our [official website](https://www.juneo.com/) for more information ab
 
 We'd love to hear from you! If you have any questions or suggestions, please feel free to contact us:
 
-- 📧 Email: comming soon
-- 💼 LinkedIn: [JUNEO](https://www.linkedin.com/company/juneo-ag/about/)
-- 🐦 Twitter: comming soon
+- 📧 Email : coming soon
+- 💼 LinkedIn : [JUNEO](https://www.linkedin.com/company/juneo-ag/about/)
+- 🐦 Twitter : [JUNEO_official](https://twitter.com/JUNEO_official)
+- 🌐 Site Web : [JUNEO](https://www.juneo.ch/)
+- 💬 Telegram : [JUNEO_Official](https://t.me/JuneoOfficial)
+- 📖 Medium : [JUNEO](https://medium.com/@juneo)
+- 💬 Discord : [JUNEO Network](https://discord.gg/juneonetwork)
 
 ## 🌟 Star us on GitHub
 
