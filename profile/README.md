@@ -6,7 +6,7 @@ Discover JUNEO, the platform that redefines blockchain innovation through unlimi
 
 ## 📚 Documentation
 
-Visit our [documentation](https://docs.mcnpoc5.xyz) for comprehensive guides, API references, and tutorials on how to integrate and use our blockchain network.
+Visit our [documentation](https://docs.juneo.com) for comprehensive guides, API references, and tutorials on how to integrate and use our blockchain network.
 
 ## 🌐 Website
 
