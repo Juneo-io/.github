@@ -21,7 +21,7 @@ We'd love to hear from you! If you have any questions or suggestions, please fee
 - 🐦 Twitter : [JUNEO_official](https://twitter.com/JUNEO_official)
 - 💬 Telegram : [JUNEO_Official](https://t.me/JuneoOfficial)
 - 📖 Medium : [JUNEO](https://medium.com/@juneo)
-- 💬 Discord : [JUNEO Network](https://discord.gg/juneonetwork)
+- 💬 Discord : [JUNEO Network](https://discord.gg/juneo)
 
 ## 🌟 Star us on GitHub
 
