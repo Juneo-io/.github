@@ -20,7 +20,7 @@ We'd love to hear from you! If you have any questions or suggestions, please fee
 - 💼 LinkedIn : [JUNEO](https://www.linkedin.com/company/juneo-ag/about/)
 - 🐦 Twitter : [JUNEO_official](https://twitter.com/JUNEO_official)
 - 💬 Telegram : [JUNEO_Official](https://t.me/JuneoOfficial)
-- 📖 Medium : [JUNEO](https://medium.com/@juneo)
+- 📖 Medium : [JUNEO](https://medium.com/@juneo_supernet)
 - 💬 Discord : [JUNEO Network](https://discord.gg/juneosupernet)
 
 ## 🌟 Star us on GitHub
